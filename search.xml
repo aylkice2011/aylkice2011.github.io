@@ -4,6 +4,46 @@
   
     
     <entry>
+      <title>hello world</title>
+      <link href="/2023/12/23/hello-world-1/"/>
+      <url>/2023/12/23/hello-world-1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello world</title>
+      <link href="/2023/12/23/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+      <url>/2023/12/23/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Japanese </tag>
+            
+            <tag> Language </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/12/22/hello-world/"/>
       <url>/2023/12/22/hello-world/</url>
@@ -17,25 +57,6 @@
             <tag> Foo </tag>
             
             <tag> Bar </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hello world</title>
-      <link href="/2023/12/22/hello-world-1/"/>
-      <url>/2023/12/22/hello-world-1/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Foo </tag>
             
         </tags>
       
