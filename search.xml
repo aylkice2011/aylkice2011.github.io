@@ -23,27 +23,6 @@
     
     
     <entry>
-      <title>hello world</title>
-      <link href="/2023/12/23/japanese-test/"/>
-      <url>/2023/12/23/japanese-test/</url>
-      
-        <content type="html"><![CDATA[<p>test of using japanese</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Japanese </tag>
-            
-            <tag> Language </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2023/12/22/hello-world/"/>
       <url>/2023/12/22/hello-world/</url>
