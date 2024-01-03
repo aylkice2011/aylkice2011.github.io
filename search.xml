@@ -42,16 +42,18 @@
       
       <categories>
           
-          <category> test </category>
+          <category> Language </category>
+          
+          <category> Japanese </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Japanese </tag>
+            <tag> test </tag>
             
-            <tag> Language </tag>
+            <tag> Japanese </tag>
             
         </tags>
       
@@ -64,7 +66,7 @@
       <link href="/2023/12/23/markdown-elements/"/>
       <url>/2023/12/23/markdown-elements/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<blockquote><p>This is a test post where I test new features I want to add to future posts and learn markdown grammar.</p></blockquote><ul><li>HTML Music Share</li></ul><iframe src="https://podcasters.spotify.com/pod/show/aylkice2011/embed/episodes/by-YOASOBI-e2dv6cf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>]]></content>
       
       
       <categories>
@@ -77,6 +79,8 @@
       
       
         <tags>
+            
+            <tag> test </tag>
             
             <tag> Markdown </tag>
             
